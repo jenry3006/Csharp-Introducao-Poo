@@ -1,0 +1,15 @@
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\bin\Debug\net5.0\Csharp.Introdução.Poo.exe
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\bin\Debug\net5.0\Csharp.Introdução.Poo.deps.json
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\bin\Debug\net5.0\Csharp.Introdução.Poo.runtimeconfig.json
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\bin\Debug\net5.0\Csharp.Introdução.Poo.runtimeconfig.dev.json
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\bin\Debug\net5.0\Csharp.Introdução.Poo.dll
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\bin\Debug\net5.0\ref\Csharp.Introdução.Poo.dll
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\bin\Debug\net5.0\Csharp.Introdução.Poo.pdb
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\obj\Debug\net5.0\Csharp.Introdução.Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\obj\Debug\net5.0\Csharp.Introdução.Poo.AssemblyInfoInputs.cache
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\obj\Debug\net5.0\Csharp.Introdução.Poo.AssemblyInfo.cs
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\obj\Debug\net5.0\Csharp.Introdução.Poo.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\obj\Debug\net5.0\Csharp.Introdução.Poo.dll
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\obj\Debug\net5.0\ref\Csharp.Introdução.Poo.dll
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\obj\Debug\net5.0\Csharp.Introdução.Poo.pdb
+C:\Users\facec.lab01\source\repos\Csharp.Introdução.Poo\Csharp.Introdução.Poo\obj\Debug\net5.0\Csharp.Introdução.Poo.genruntimeconfig.cache
